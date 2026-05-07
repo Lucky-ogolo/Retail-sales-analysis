@@ -6,7 +6,7 @@ An end-to-end Excel business intelligence project covering data cleaning, transf
 
 ## Dashboard Preview
 
-![Executive Growth Overview Dashboard]()
+![](https://github.com/Lucky-ogolo/Retail-sales-analysis/blob/854ceb3f4e5798e82d1d3531b05296832b3c0b60/Screenshot%202026-05-07%20100007.png)
 
 ---
 
